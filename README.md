@@ -1,1 +1,1 @@
-Following the MongoDB MEAN stack tutorial to learn kind of how to use ts. Lowkey a waste because the tutorial didn't really explain anyhting, by the end I was just copying the blocks of code but like what can you do. 
+Created using MongoDB MEAN stack tutorial.
